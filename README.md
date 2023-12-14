@@ -1,5 +1,3 @@
-# DevOps Intern Assignment - README
-
 ## Assignment Overview
 
 In this assignment, I successfully deployed a sample Flask application using Docker and Docker Compose. The application includes a PostgreSQL database, a Redis cache, and is structured to follow best practices for containerization, networking, and security.
